@@ -11,11 +11,9 @@ baseurl: /ishibashi-lab.github.io/
 # site social media and other links
 links:
   email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  google-scholar: Tomoki Ishibashi
+  github:
+  twitter: TomokiIshibashi
 
 ### advanced settings
 
