@@ -1,18 +1,16 @@
 ---
-name: Upton O. Goode
+name: Tomoki Ishibashi, Ph.D.
 image: images/member.jpg
-description: Bone Investigator
-role: pi
+description: post-doc
+role: post-doc
 aliases:
-  - U. Goode
-  - U. O. Goode
-  - U Goode
+  - T. Ishibashi
+  - T Ishibashi
+  - Ishibashi, T.
+  - Ishibashi, Tomoki
 links:
-  orcid: 0000-0001-8713-9213
-  email: upton@ogoode.com
-  twitter: uptonogoode
+  orcid: 0000-0001-6652-9343
+  email: ishibashi@hogehoge.com
+  twitter: TomokiIshibashi
 ---
 
-Upton is a good dog.
-He studied at the University of Good Dogs.
-He likes pets, walkies, and treats.
