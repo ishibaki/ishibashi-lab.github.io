@@ -39,8 +39,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 {%
   include link.html
-  link="research"
-  text="See what we've published"
+  link="about"
+  text="See what we'are elucidating"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -50,7 +50,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="about"
   title="Our Research"
   text=text
 %}
@@ -61,8 +61,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {%
   include link.html
-  link="tools"
-  text="Browse our tools"
+  link="members"
+  text="Meet lab members"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -72,8 +72,8 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 {%
   include feature.html
   image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
+  link="members"
+  title="Lab members"
   flip=true
   text=text
 %}
@@ -83,8 +83,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include link.html
-  link="team"
-  text="Meet our team"
+  link="publication"
+  text="See what we've published"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -94,8 +94,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 {%
   include feature.html
   image="images/photo.jpg"
-  link="team"
-  title="Our Team"
+  link="publication"
+  title="Publication"
   text=text
 %}
 
