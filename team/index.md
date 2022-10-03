@@ -14,23 +14,49 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 {% include section.html %}
 
+## Staffs
+
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: ['pi', 'prof', 'asoc-prof', 'assis-prof']"
 %}
+
+## Post-docs
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: ['postdoc']"
+%}
+
+## Ph.D. Students
+
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: phd"
 %}
+
+## M.S. Students
+
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: ms"
+%}
+
+## Undergraduate Students
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: bs"
 %}
 {:.center}
 
