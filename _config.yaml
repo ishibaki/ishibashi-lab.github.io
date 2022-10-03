@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: "Tomoki Ishibashi's Website"
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
+title: "Ishibashi Lab"
+description: Ishibashi laboratory
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
