@@ -16,14 +16,16 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 
 ## Staffs
 
+### PI
+
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi, prof, asoc-prof, assis-prof"
+  filters="role: pi"
 %}
 
-## Post-docs
+### Post-docs
 
 {%
   include list.html
@@ -32,31 +34,60 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   filters="role: post-doc"
 %}
 
-## Ph.D. Students
+## Students
+
+### D3
 
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: d3"
 %}
 
-## M.S. Students
+### D2
 
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: ms"
+  filters="role: d2"
 %}
 
-## Undergraduate Students
+### D1
 
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: bs"
+  filters="role: d1"
+%}
+
+### M2
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: m2"
+%}
+
+### M1
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: m1"
+%}
+
+### B4
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: b4"
 %}
 {:.center}
 
