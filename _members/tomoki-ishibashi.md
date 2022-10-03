@@ -2,7 +2,7 @@
 name: Tomoki Ishibashi, Ph.D.
 image: images/member.jpg
 description: post-doc
-role: post-doc
+role: postdoc
 aliases:
   - T. Ishibashi
   - T Ishibashi
