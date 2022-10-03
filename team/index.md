@@ -20,7 +20,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: ['pi', 'prof', 'asoc-prof', 'assis-prof']"
+  filters="role: pi, prof, asoc-prof, assis-prof"
 %}
 
 ## Post-docs
@@ -29,7 +29,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
   include list.html
   data="members"
   component="portrait"
-  filters="role: ['postdoc']"
+  filters="role: postdoc"
 %}
 
 ## Ph.D. Students
